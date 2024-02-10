@@ -1,0 +1,16 @@
+.row{
+    display:flex;
+    justify-content:center;
+    flex-direction:column;
+    width:50%;
+    height:50%;
+    gap:5px;
+}
+button{
+    background-color: blueviolet;
+}
+.value1 , .value2 , .value3  , .value4{
+display:flex;
+justify-content:center;
+color:black;
+}
